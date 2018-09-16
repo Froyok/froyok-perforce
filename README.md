@@ -17,3 +17,5 @@ Use the following steps :
 3. Run to package : **docker save  froyok-perforce > froyok-perforce.tar**
 
 You will end-up with a **froyok-perforce.tar** file that can be installed on a Docker system. This is compatible with Docker on Synology NAS for example.
+
+For further details see : http://www.froyok.fr/blog/2018-09-setting-up-perforce-with-docker-for-unreal-engine-4
